@@ -1,6 +1,4 @@
 ---
-layout: page
-title: A bit about me
 
 Hello, my name is Nisha Arya Ahmed. I am a 23 year old Briton who lives in London, UK. I have taken a new path which involves me taking on the world of technology. This is a world that I do not know much about. I am a current student at Lambda School studying Data Science for Artificial Intelligence. 
 
@@ -11,3 +9,5 @@ I want to use the skills that I learn at Lambda to help me create solutiions to 
 This is the start to my Data Science journey. 
 
 Stay for the ride.
+
+---
